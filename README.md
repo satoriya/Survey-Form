@@ -16,12 +16,18 @@ The number input should not accept non-numbers, either by preventing you from ty
 
 [x] For the name, email, and number input fields, you can see corresponding label elements in the form, that describe the purpose of each field with the following ids: id="name-label", id="email-label", and id="number-label"
 
-[x]For the name, email, and number input fields, you can see placeholder text that gives a description or instructions for each field
+[x] For the name, email, and number input fields, you can see placeholder text that gives a description or instructions for each field
+
 Inside the form element, you should have a select dropdown element with an id of dropdown and at least two options to choose from
+
 Inside the form element, you can select an option from a group of at least two radio buttons that are grouped using the name attribute
+
 Inside the form element, you can select several fields from a series of checkboxes, each of which must have a value attribute
+
 Inside the form element, you are presented with a textarea for additional comments
+
 Inside the form element, you are presented with a button with id of submit to submit all the inputs
+
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
 Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
